@@ -1,0 +1,40 @@
+.heading{
+    color: red;
+    font-family: 'Spectral SC', serif;
+}
+.google_lens,.mobilenet{
+    font-family: 'Spectral SC', serif;
+    font-size: 20px;
+}
+.google_lens_img{
+height:150px ;
+width: 150px;
+}
+
+img{
+     margin-top: 10px;
+    height:300px ;
+    width: 200px;
+     margin-bottom: 10px;
+     border-radius: 10px;
+}
+.test_img_and_result{
+    margin-top: 15px;
+    background-color:rgb(174, 167, 167);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+   margin-bottom: 15px;
+
+}
+h5{
+    background-color:white;
+    border-radius: 30px;
+    font-size:25px ;
+}
+h4{
+    font-size: 20px;
+    color:white;
+}
+.test_img{
+    color: white;
+}
